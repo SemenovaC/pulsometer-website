@@ -1,0 +1,142 @@
+{
+  "catalog": [
+    {
+      "img": "img/watch_catalog.jpg",
+      "alt": "watch",
+      "title": "Pulsometer Polar FT1",
+      "descr": "For the first steps in trainings, based on heart rate",
+      "link": "LEARN MORE",
+      "oldPrice": "258 USD",
+      "newPrice": "230 USD",
+      "sports": "running"
+    },
+    {
+      "img": "img/watch_catalog.jpg",
+      "alt": "watch",
+      "title": "Pulsometer Suunto M2",
+      "descr": "For the first steps in trainings, based on heart rate",
+      "link": "LEARN MORE",
+      "oldPrice": "530 USD",
+      "newPrice": "480 USD"
+    },
+    {
+      "img": "img/watch_catalog.jpg",
+      "alt": "watch",
+      "title": "Pulsometer Polar FT1",
+      "descr": "For the first steps in trainings, based on heart rate",
+      "link": "LEARN MORE",
+      "oldPrice": "427 USD",
+      "newPrice": "400 USD",
+      "sports": "triathlon"
+    },
+    {
+      "img": "img/watch_catalog.jpg",
+      "alt": "watch",
+      "title": "Pulsometer Suunto M2",
+      "descr": "For the first steps in trainings, based on heart rate",
+      "link": "LEARN MORE",
+      "oldPrice": "170 USD",
+      "newPrice": "160 USD",
+      "sports": "running"
+    },
+    {
+      "img": "img/watch_catalog.jpg",
+      "alt": "watch",
+      "title": "Pulsometer Naics T5",
+      "descr": "For the first steps in trainings, based on heart rate",
+      "link": "LEARN MORE",
+      "oldPrice": "610 USD",
+      "newPrice": "580 USD",
+      "sports": "triathlon"
+    },
+    {
+      "img": "img/watch_catalog.jpg",
+      "alt": "watch",
+      "title": "Pulsometer Kaide N76",
+      "descr": "For the first steps in trainings, based on heart rate",
+      "link": "LEARN MORE",
+      "oldPrice": "340 USD",
+      "newPrice": "320 USD",
+      "sports": "running"
+    }
+  ],
+  "requests": [
+    {
+      "name": "",
+      "e-mail": "",
+      "phone": "",
+      "id": ""
+    },
+    {
+      "name": "Christina",
+      "phone": "860008",
+      "id": "SQvNW_f"
+    },
+    {
+      "name": "роидри",
+      "phone": "4352",
+      "id": "54JaZCp"
+    },
+    {
+      "name": "роидри",
+      "phone": "4352",
+      "id": "_dEgJ7y"
+    },
+    {
+      "name": "hf",
+      "phone": "860008",
+      "email": "christina.semenova@mail.ru",
+      "id": "t12EuVf"
+    },
+    {
+      "name": "ыпк",
+      "phone": "322221",
+      "email": "semenovac95@gmail.com",
+      "id": "4nsB0xZ"
+    },
+    {
+      "name": "роидри",
+      "phone": "860008",
+      "email": "christina.semenova@mail.ru",
+      "id": "h2ffm_P"
+    },
+    {
+      "name": "ugtfou",
+      "phone": "5645687",
+      "email": "semenovac@gmail.com",
+      "id": "tHwGwDe"
+    },
+    {
+      "name": "ugtfou",
+      "phone": "5645687",
+      "email": "semenovac@gmail.com",
+      "id": "yJ6nAig"
+    },
+    {
+      "name": "jhg",
+      "phone": "860008",
+      "email": "christina.semenova@mail.ru",
+      "id": "br7Ztqi"
+    },
+    {
+      "name": "fFEF",
+      "phone": "4352",
+      "id": "FeOHR9L"
+    },
+    {
+      "name": "vbcmh",
+      "phone": "76578",
+      "id": "1HVGtU0"
+    },
+    {
+      "name": "Christina",
+      "phone": "322221",
+      "id": "ahH6rTi"
+    },
+    {
+      "name": "Christina",
+      "phone": "860008",
+      "id": "3LWTqPc"
+    }
+  ]
+}

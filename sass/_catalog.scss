@@ -1,0 +1,136 @@
+.catalog {
+	min-height: 900px;
+	h2 {
+		font-weight: 400;
+		font-size: 30px;
+		text-transform: uppercase;
+		text-align: center;
+	}
+	&__buttons {
+		display: flex;
+		align-items:center;
+		justify-content: center;
+	}
+	&__button {
+		width: 222px;
+		height: 52px;
+		font-weight: 400;
+		font-size: 18px;
+		text-align: center;
+		text-transform: uppercase;
+		color:#6B6B6B;
+		border-color: #6B6B6B;
+		border-style: solid;
+		background-color: white;
+		border-width: 1px;
+		transform: skewX(-25deg);
+		margin: 0 9px;
+		cursor: pointer;
+		transition: 0.5s all;
+		&:hover{
+			box-shadow: 3px 3px 20px;
+			border:none;
+		}
+		div {
+			transform: skewX(25deg);	
+		}
+		&_active {
+			background: #C70101;
+			color: white;
+			border-color: #C70101;
+			&:hover {
+				box-shadow: 3px 3px 20px;
+			}
+		}
+	}
+	&__item {
+		display: inline-block;
+		width: 280px;
+		height: 342px;
+		margin: 20px 10px;
+		vertical-align: middle;
+		border-width: 1px;
+		border-color: #6B6B6B;
+		border-style: solid;
+		box-shadow: 0 4px 25px rgba(0, 0, 0, .25);
+		padding: 5px;
+		text-align: center;
+	}
+	&__content {
+		margin-top: 30px;
+		display: inline-block;
+		vertical-align: middle;
+		align-items:center;
+		min-height: 900px;
+	}
+	&__img {
+		display: block;
+		margin: 0 auto;
+		width: 40%;
+		align-items:center;
+	}
+	&__subtitle {
+		display: block;
+		font-weight: 700;
+		font-size: 16px;
+		text-align: center;
+	}
+	&__descr {
+		font-weight: 300;
+		font-size: 14px;
+		line-height: 22px;
+		text-align: center;
+	}
+	&__link {
+		font-weight: 500;
+		font-size: 14px;
+		color: #C70101;
+		text-decoration-line: underline;
+	}
+	hr {
+		margin: 15px;
+	}
+	&__footer {
+		height: 70px;
+		display: flex;
+		justify-content: space-between;
+		padding: 10px 15px;
+		&_prices_old {
+			font-weight: 300;
+			font-size: 14px;
+			color: #555555;
+			text-decoration: line-through;
+			text-align: left;
+		}
+		&_prices_new {
+			font-weight: 700;
+			font-size: 16px;
+			text-align: left;
+		}
+	}
+	&__btn {
+		font-weight: 500;
+		font-size: 14px;
+		color: white;
+		width: 135px;
+		height: 44px;
+		background-color:#C70101;
+		cursor: pointer;
+		border: none;
+		border-radius: 5px;
+		margin-left: 28px;
+		margin-bottom: 17px;
+		transition: 0.4s;
+		&:hover {
+			opacity: 0.7;
+		}
+	}
+}
+
+.catalog__footer_prices_old {
+	font-weight: 300;
+	font-size: 14px;
+	color: #555555;
+	text-decoration: line-through;
+}
+
